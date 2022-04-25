@@ -148,7 +148,7 @@ section:nth-child(4){
   height:auto;
 }
 
-.about-description h3{
+.about-description p{
   font-style: normal;
   font-weight: 500;
   font-size: 1.4vw;
@@ -215,7 +215,7 @@ section:nth-child(4){
   padding-right: .5vw;
 }
 
-.game {
+#game {
   width:35%;
   height:auto;
 }
